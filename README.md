@@ -16,18 +16,13 @@ Here are some ideas to get you started:
 
 ### Hi I'm Claudia
 
-I am a Junior LAN & System Administrator working for the Itaian Ministry of Defence.  
+Currently hired as Junior LAN & System Administrator, looking forward to progressing my career in the Software engineering field.  
 
-Currently, I am finishing a Full Stack Development course with [Code Institute](https://codeinstitute.net) and looking forward to progressing my career in tech. 
+**Full Stack Developer** student @[Code Institute](https://codeinstitute.net) specialization in Predictive Analysis.</br>
+I lost my head over Machine Learning but still committed to improve my JavaScript skills. 
 
-
-[![General badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudia-cifaldi/)
-
-
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=cla-cif&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
-
-
-![Claudia GitHub Stats](https://github-readme-stats.vercel.app/api?username=cla-cif&theme=chartreuse-dark&show_icons=true)
+Visit my profile and please reach out to me to schedule an interview:</br>
+[![Linkedin badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudia-cifaldi/)
 
 ---
 
@@ -90,3 +85,12 @@ Currently, I am finishing a Full Stack Development course with [Code Institute](
 ### Design | Wireframes
 
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
+
+---
+### Stats
+<a href="https://github.com/cla-cif/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cla-cif&theme=chartreuse-dark&show_icons=true" />
+</a>
+<a href="https://github.com/cla-cif/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cla-cif&hide=Jupyter%20Notebook&hide_progress=true&langs_count=8" />
+</a>
